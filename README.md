@@ -10,6 +10,7 @@ To get started with this demo you will need the following
 After installing Unity, you will need to open Unity and create a project with **3D enabled** as an option.Once you create your project you will need two assets from the Unity asset store.
 - Virtual Reality Tool Kit (VRTK)
 - SteamVR
+
 Both of these assets are completely free.
 
 ## Additional Links and Tutorials
