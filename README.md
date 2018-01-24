@@ -22,3 +22,6 @@ To learn more about [Unity](https://unity3d.com/learn) in general
 
 [Unity Virtual Reality Overview](https://unity3d.com/learn/tutorials/topics/virtual-reality/vr-overview?playlist=22946)
 
+Here is a course offered by Lynda called [Unity 3D Essential Training](https://www.lynda.com/Unity-tutorials/Unity-3D-Essential-Training/639062-2.html)
+You will probably have to login first with your school credentials
+
